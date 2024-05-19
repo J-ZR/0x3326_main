@@ -6,12 +6,12 @@ Go to the discord development portal (https://discord.com/developers/application
 Click on "New Application" then name your bot and click create. (You can customize it to have a profile picture)<br />
 Click on "Copy" to copy the token. This should not be shared or be made public. If it doesn't say copy, click on "reset token" <br />and save that somewhere.
 
-### OAuth2 & Bot
+## OAuth2 & Bot
 Once you've created the bot, you'll be on the "General Informations" tab. Nagivate to the "Bot" tab on the left hand side menue bar.
 Scroll down to where it says "Bot Permissions" and click on "Administrator". (You can chose your own desired settings if you like <br />
 for the sake of the tutorial, simply click on "Administrator").
 
-### OAuth2
+## OAuth2
 Now nagigate to the "OAuth2" tab. Scroll down to the "OAuth2 URL Generator". Find the option on the "scope" section that says "bot" and select the box. <bt />
 A new option will appear under the previous one called "Bot Permissions". There, select the desired permissions. 
 
