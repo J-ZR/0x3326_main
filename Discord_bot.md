@@ -7,7 +7,7 @@ This Bot will use the discord.py documentation.
 `async def on_ready():`
 
 This is the **Client Event** which is responsible for showing that there has been a succesful login.
-The following code would be under that would be: <br /> 
+The following code would go under that: <br /> 
 `print("We Have Logged in as: {0.user}".format(client))
 `<br />
 
